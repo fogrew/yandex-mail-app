@@ -7,4 +7,3 @@ Initial release
 
 * Opens yandex mail in app on full screen
 * Added icons for dock and app
-* Added 
