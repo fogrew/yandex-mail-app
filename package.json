@@ -1,0 +1,24 @@
+{
+  "name": "YandexMail",
+  "version": "1.0.0",
+  "description": "Yandex Mail in App",
+  "main": "main.js",
+  "scripts": {
+    "build": "electron-packager . --out=build --overwrite --icon=./assets/icons/icns/yandex.icns",
+    "dev": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nights.site/Foggy/yandex-mail.git"
+  },
+  "license": "UNLICENCED",
+  "author": "Andrew Gurylev",
+  "bugs": {
+    "url": "https://nights.site/Foggy/yandex-mail/issues"
+  },
+  "homepage": "https://github.com/Foggy/yandex-mail#readme",
+  "devDependencies": {
+    "electron": "^2.0.0",
+    "electron-packager": "^12.0.2"
+  }
+}
